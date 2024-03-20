@@ -4,11 +4,14 @@
 }
 
 body{
-    display: flex;
+      display: flex;
     justify-content: center;
     text-align: center;
-    background-color: rgb(116, 53, 9);
+    
     min-height: 100vh;
+   background-image: url("https://images.unsplash.com/photo-1603777953913-d4bace4bf01c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGN1cnJlbmN5JTIwY29udmVydG9yfGVufDB8fDB8fHww");
+   background-size: cover; 
+    background-position: center;
    
 }
 .container{
